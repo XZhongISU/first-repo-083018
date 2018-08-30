@@ -9,3 +9,5 @@ create item list
 
 
 Stat 520!!:scream:
+You don't have STAT 641 
+That's woow.
